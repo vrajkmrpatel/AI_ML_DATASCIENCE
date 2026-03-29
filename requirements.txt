@@ -4,3 +4,5 @@ matplotlib
 requests
 seaborn
 scikit-learn
+keras
+tensorflow
