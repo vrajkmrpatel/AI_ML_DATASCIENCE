@@ -6,3 +6,7 @@ seaborn
 scikit-learn
 keras
 tensorflow
+textblob
+nltk
+spacy
+emoji
