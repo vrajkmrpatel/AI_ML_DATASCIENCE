@@ -1,6 +1,8 @@
 # LangChain Core
 langchain
 langchain-core
+langchain-community
+langchain-classic
 
 # OpenAI Integration
 langchain-openai
@@ -8,6 +10,7 @@ openai
 
 # Anthropic Integration
 langchain-anthropic
+langchain-groq
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai
@@ -15,6 +18,7 @@ google-generativeai
 
 # Hugging Face Integration
 langchain-huggingface
+sentence-transformers
 transformers
 huggingface-hub
 
@@ -29,8 +33,21 @@ requests
 seaborn
 scikit-learn
 keras
-tensorflow
 textblob
 nltk
 spacy
 emoji
+dotenv
+unstructured
+tiktoken
+pinecone
+pypdf
+python-dotenv
+torch
+torchvision
+torchaudio
+langchain-pinecone
+streamlit
+langchain-text-splitters
+pymupdf
+pdfminer
