@@ -1,6 +1,10 @@
 # LangChain Core
 langchain
+langgraph
+langsmith
 langchain-core
+langchain-community
+langchain-tavily
 
 # OpenAI Integration
 langchain-openai
@@ -12,6 +16,7 @@ langchain-anthropic
 # Google Gemini (PaLM) Integration
 langchain-google-genai
 google-generativeai
+langchain-groq
 
 # Hugging Face Integration
 langchain-huggingface
@@ -28,8 +33,6 @@ matplotlib
 requests
 seaborn
 scikit-learn
-keras
-tensorflow
 textblob
 nltk
 spacy
