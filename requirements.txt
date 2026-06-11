@@ -1,5 +1,9 @@
+ipython
+
 # LangChain Core
 langchain
+langgraph
+langsmith
 langchain-core
 langchain-community
 langchain-classic
@@ -7,6 +11,7 @@ langchain-classic
 # OpenAI Integration
 langchain-openai
 openai
+nltk
 
 # Anthropic Integration
 langchain-anthropic
@@ -41,6 +46,7 @@ dotenv
 unstructured
 tiktoken
 pinecone
+pinecone-text
 pypdf
 python-dotenv
 torch
@@ -51,3 +57,6 @@ streamlit
 langchain-text-splitters
 pymupdf
 pdfminer
+pydantic
+arxiv
+wikipedia
