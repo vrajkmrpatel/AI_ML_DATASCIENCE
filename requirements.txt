@@ -1,17 +1,17 @@
+ipython
+
 # LangChain Core
 langchain
-langgraph
-langsmith
 langchain-core
-langchain-community
-langchain-tavily
 
 # OpenAI Integration
 langchain-openai
 openai
+nltk
 
 # Anthropic Integration
 langchain-anthropic
+langchain-groq
 
 # Google Gemini (PaLM) Integration
 langchain-google-genai
@@ -20,6 +20,7 @@ langchain-groq
 
 # Hugging Face Integration
 langchain-huggingface
+sentence-transformers
 transformers
 huggingface-hub
 
@@ -33,7 +34,27 @@ matplotlib
 requests
 seaborn
 scikit-learn
+keras
+tensorflow
 textblob
 nltk
 spacy
 emoji
+dotenv
+unstructured
+tiktoken
+pinecone
+pinecone-text
+pypdf
+python-dotenv
+torch
+torchvision
+torchaudio
+langchain-pinecone
+streamlit
+langchain-text-splitters
+pymupdf
+pdfminer
+pydantic
+arxiv
+wikipedia
