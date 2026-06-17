@@ -1,19 +1,24 @@
 ipython
+nbformat
+anyio
 
 # LangChain Core
 langchain
+langsmith
 langchain-core
-
-# OpenAI Integration
-langchain-openai
-openai
+langchain-classic
+gradio
+plotly
 nltk
 
 # Anthropic Integration
 langchain-anthropic
 langchain-groq
+langchain-tavily
+langchain-chroma
 
 # Google Gemini (PaLM) Integration
+langchain-google-vertexai
 langchain-google-genai
 google-generativeai
 langchain-groq
@@ -21,11 +26,16 @@ langchain-groq
 # Hugging Face Integration
 langchain-huggingface
 sentence-transformers
+rank_bm25
 transformers
 huggingface-hub
 
 # Environment Variable Management
 python-dotenv
+
+# RAG Evaluation
+ragas
+datasets
 
 # Machine Learning Utilities
 numpy
